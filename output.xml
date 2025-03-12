@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.2.2 (Python 3.13.2 on win32)" generated="2025-03-10T14:02:18.946753" rpa="false" schemaversion="5">
+<suite id="s1" name="Miron-QA-Aula1" source="C:\treinamentoAutomacao\Miron-QA-Aula1.robot">
+<test id="s1-t1" name="Primeiro teste no robot" line="11">
+<kw name="Dado que acesso o sistema saucedemo">
+<kw name="Open Browser">
+<msg time="2025-03-10T14:02:18.986546" level="FAIL">No keyword with name 'Open Browser' found.</msg>
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+<status status="FAIL" start="2025-03-10T14:02:18.986510" elapsed="0.000097">No keyword with name 'Open Browser' found.</status>
+</kw>
+<kw name="Maximize Browser Window">
+<status status="NOT RUN" start="2025-03-10T14:02:18.986736" elapsed="0.000017"/>
+</kw>
+<kw name="Wait Until Element Is Visible">
+<arg>id:user-name</arg>
+<arg>timeout=10s</arg>
+<status status="NOT RUN" start="2025-03-10T14:02:18.986845" elapsed="0.000020"/>
+</kw>
+<status status="FAIL" start="2025-03-10T14:02:18.985428" elapsed="0.001560">No keyword with name 'Open Browser' found.</status>
+</kw>
+<kw name="Quando digito credenciais válidas">
+<status status="NOT RUN" start="2025-03-10T14:02:18.987271" elapsed="0.000028"/>
+</kw>
+<kw name="Então faço login com sucesso e adiciono item ao carrinho">
+<status status="NOT RUN" start="2025-03-10T14:02:18.987569" elapsed="0.000031"/>
+</kw>
+<doc>Testa o login e adição de item ao carrinho no SauceDemo</doc>
+<status status="FAIL" start="2025-03-10T14:02:18.984536" elapsed="0.003365">No keyword with name 'Open Browser' found.</status>
+</test>
+<status status="FAIL" start="2025-03-10T14:02:18.949507" elapsed="0.039924"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Miron-QA-Aula1" id="s1" pass="0" fail="1" skip="0">Miron-QA-Aula1</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2025-03-10T14:02:18.980982" level="ERROR">Error in file 'C:\treinamentoAutomacao\Miron-QA-Aula1.robot' on line 2: Importing library 'SeleniumLibrary' failed: ModuleNotFoundError: No module named 'SeleniumLibrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  C:\treinamentoAutomacao
+  C:\Users\miron.junior_sankhya\AppData\Local\Programs\Python\Python313\python313.zip
+  C:\Users\miron.junior_sankhya\AppData\Local\Programs\Python\Python313\DLLs
+  C:\Users\miron.junior_sankhya\AppData\Local\Programs\Python\Python313\Lib
+  C:\Users\miron.junior_sankhya\AppData\Local\Programs\Python\Python313
+  C:\Users\miron.junior_sankhya\AppData\Local\Programs\Python\Python313\Lib\site-packages</msg>
+</errors>
+</robot>

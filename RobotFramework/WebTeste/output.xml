@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.2.2 (Python 3.13.2 on win32)" generated="2025-03-12T14:16:19.457411" rpa="false" schemaversion="5">
+<suite id="s1" name="Amazonteste" source="C:\TreinamentoAutomacao\RobotFramework\WebTeste\amazonteste.robot">
+<test id="s1-t1" name="Caso de teste 01 - Acesso ao menu &quot;Eletrônicos&quot;" line="11">
+<kw name="Abrir o navegador" owner="Amazon_resources" type="SETUP">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2025-03-12T14:16:19.784092" level="INFO">Opening browser 'chrome' to base url 'None'.</msg>
+<msg time="2025-03-12T14:16:21.393405" level="WARN">The chromedriver version (133.0.6943.126) detected in PATH at C:\WINDOWS\chromedriver.exe might not be compatible with the detected chrome version (134.0.6998.88); currently, chromedriver 134.0.6998.88 is recommended for chrome 134.*, so it is advised to delete the driver in PATH and retry</msg>
+<arg>browser=chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2025-03-12T14:16:19.783907" elapsed="2.974472"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2025-03-12T14:16:22.758903" elapsed="0.046380"/>
+</kw>
+<status status="PASS" start="2025-03-12T14:16:19.783310" elapsed="3.022321"/>
+</kw>
+<kw name="Acessar a home page do site Amazon.com.br" owner="Amazon_resources">
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2025-03-12T14:16:22.807290" level="INFO">Opening url 'http://www.amazon.com.br'</msg>
+<arg>url=${url}</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2025-03-12T14:16:22.806932" elapsed="2.712774"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2025-03-12T14:16:50.520655" level="INFO">Slept 25 seconds.</msg>
+<arg>25s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2025-03-12T14:16:25.519935" elapsed="25.000871"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>locator=${menu_eletronico}</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2025-03-12T14:16:50.521017" elapsed="0.040760"/>
+</kw>
+<status status="PASS" start="2025-03-12T14:16:22.806355" elapsed="27.755568"/>
+</kw>
+<kw name="Fechar o navegador" owner="Amazon_resources" type="TEARDOWN">
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2025-03-12T14:16:50.562666" elapsed="2.396977"/>
+</kw>
+<status status="PASS" start="2025-03-12T14:16:50.562430" elapsed="2.397357"/>
+</kw>
+<doc>Esse teste verifica o menu eletronico do site da Amazon.com.br
+e verifica a categoria Computadores e Informática</doc>
+<tag>categorias</tag>
+<tag>menus</tag>
+<status status="PASS" start="2025-03-12T14:16:19.782158" elapsed="33.177861"/>
+</test>
+<doc>Essa suite testa o site da Amazon.com.br</doc>
+<status status="PASS" start="2025-03-12T14:16:19.459544" elapsed="33.501571"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0" skip="0">categorias</stat>
+<stat pass="1" fail="0" skip="0">menus</stat>
+</tag>
+<suite>
+<stat name="Amazonteste" id="s1" pass="1" fail="0" skip="0">Amazonteste</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2025-03-12T14:16:21.393405" level="WARN">The chromedriver version (133.0.6943.126) detected in PATH at C:\WINDOWS\chromedriver.exe might not be compatible with the detected chrome version (134.0.6998.88); currently, chromedriver 134.0.6998.88 is recommended for chrome 134.*, so it is advised to delete the driver in PATH and retry</msg>
+</errors>
+</robot>

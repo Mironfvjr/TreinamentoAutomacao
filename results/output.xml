@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.11.0 on win32)" generated="20241209 15:04:37.967" rpa="false" schemaversion="3">
+<suite id="s1" name="TreinamentoAutomacao" source="C:\TreinamentoAutomacao">
+<suite id="s1-s1" name="Miron-QA-Aula1" source="C:\TreinamentoAutomacao\Miron-QA-Aula1.robot">
+<test id="s1-s1-t1" name="Primeiro teste no robot" line="5">
+<kw name="Dados que acesso o sistema saucedemo">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>http://www.saucedemo.com/</arg>
+<arg>Chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20241209 15:04:38.549" level="INFO">Opening browser 'Chrome' to base url 'http://www.saucedemo.com/'.</msg>
+<status status="PASS" starttime="20241209 15:04:38.547" endtime="20241209 15:04:43.010"/>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20241209 15:04:43.011" endtime="20241209 15:04:43.048"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20241209 15:04:46.049" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20241209 15:04:43.049" endtime="20241209 15:04:46.050"/>
+</kw>
+<status status="PASS" starttime="20241209 15:04:38.547" endtime="20241209 15:04:46.050"/>
+</kw>
+<kw name="Quando digito credenciais">
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>xpath://*[@id="user-name"]</arg>
+<arg>standard_user</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20241209 15:04:46.053" level="INFO">Typing text 'standard_user' into text field 'xpath://*[@id="user-name"]'.</msg>
+<status status="PASS" starttime="20241209 15:04:46.052" endtime="20241209 15:04:46.184"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>2s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20241209 15:04:48.185" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20241209 15:04:46.185" endtime="20241209 15:04:48.185"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>xpath://*[@id="password"]</arg>
+<arg>secret_sauce</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20241209 15:04:48.185" level="INFO">Typing text 'secret_sauce' into text field 'xpath://*[@id="password"]'.</msg>
+<status status="PASS" starttime="20241209 15:04:48.185" endtime="20241209 15:04:48.277"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>2s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20241209 15:04:50.279" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20241209 15:04:48.277" endtime="20241209 15:04:50.280"/>
+</kw>
+<status status="PASS" starttime="20241209 15:04:46.051" endtime="20241209 15:04:50.280"/>
+</kw>
+<kw name="Então acesso ao site">
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>xpath://*[@id="login-button"]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20241209 15:04:50.284" level="INFO">Clicking element 'xpath://*[@id="login-button"]'.</msg>
+<status status="PASS" starttime="20241209 15:04:50.283" endtime="20241209 15:04:50.398"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20241209 15:04:53.400" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20241209 15:04:50.399" endtime="20241209 15:04:53.400"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>xpath://*[@id="add-to-cart-sauce-labs-bike-light"]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20241209 15:04:53.401" level="INFO">Clicking element 'xpath://*[@id="add-to-cart-sauce-labs-bike-light"]'.</msg>
+<status status="PASS" starttime="20241209 15:04:53.401" endtime="20241209 15:04:53.487"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20241209 15:04:56.488" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20241209 15:04:53.487" endtime="20241209 15:04:56.488"/>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20241209 15:04:56.488" endtime="20241209 15:04:58.805"/>
+</kw>
+<status status="PASS" starttime="20241209 15:04:50.282" endtime="20241209 15:04:58.805"/>
+</kw>
+<status status="PASS" starttime="20241209 15:04:38.545" endtime="20241209 15:04:58.806"/>
+</test>
+<status status="PASS" starttime="20241209 15:04:37.994" endtime="20241209 15:04:58.808"/>
+</suite>
+<status status="PASS" starttime="20241209 15:04:37.973" endtime="20241209 15:04:58.812"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="TreinamentoAutomacao">TreinamentoAutomacao</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1" name="Miron-QA-Aula1">TreinamentoAutomacao.Miron-QA-Aula1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
