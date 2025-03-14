@@ -1,0 +1,56 @@
+1741972533315	geckodriver	INFO	Listening on 127.0.0.1:64917
+1741972536395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIRON~1.JUN\\AppData\\Local\\Temp\\rust_mozprofilepePmlu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741972537680	Marionette	INFO	Marionette enabled
+1741972538190	Marionette	INFO	Listening on port 64929
+WebDriver BiDi listening on ws://127.0.0.1:64918
+Read port: 64929
+1741972538289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64918/devtools/browser/c6d9124d-4da6-4352-827d-b198ce4d1f76
+JavaScript warning: https://www.amazon.com.br/, line 3507: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://m.media-amazon.com/images/I/91x6Aw8H++L.js, line 11: Script terminated by timeout at:
+ie@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:11:9323
+formatNumber@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:11:12959
+i@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:27:258614
+Le@https://m.media-amazon.com/images/I/714+3hZjzaL.js:2580:11
+Pj@https://m.media-amazon.com/images/I/714+3hZjzaL.js:6422:15
+di@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4596:19
+Nj@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4590:30
+sc@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4575:11
+gf@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4332:35
+$g/<@https://m.media-amazon.com/images/I/714+3hZjzaL.js:1875:22
+unstable_runWithPriority@https://m.media-amazon.com/images/I/41qDlz8InOL.js:437:20
+Za@https://m.media-amazon.com/images/I/714+3hZjzaL.js:1852:14
+$g@https://m.media-amazon.com/images/I/714+3hZjzaL.js:1872:13
+ja@https://m.media-amazon.com/images/I/714+3hZjzaL.js:1864:7
+Tj@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4968:7
+unstable_runWithPriority@https://m.media-amazon.com/images/I/41qDlz8InOL.js:437:20
+Za@https://m.media-amazon.com/images/I/714+3hZjzaL.js:1852:14
+Ra@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4906:16
+Rj/<@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4896:13
+R@https://m.media-amazon.com/images/I/41qDlz8InOL.js:221:24
+ua.port1.onmessage@https://m.media-amazon.com/images/I/41qDlz8InOL.js:381:14
+
+JavaScript warning: https://www.amazon.com.br/, line 3502: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/71EOqyQDjOL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 5770: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/, line 3494: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/71EOqyQDjOL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 6949: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript warning: https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHLuP5pLqxbp4VHI2OdXX9qmxRNrrtdZe6hHadck4IYj36QOQmM7D3mCIFWjl_dVCkh2nn9lRce7-3mZElYePwVkzVPmRDEriwwM6YN1pkNNF0VX1nXlrJyYiWU-fu2hgt9SVjLWitDXZpBVtwnvN6OYWLKuQXBZK3DTR7BOwH6VR0fZ6qFwug-MYr0zJGUQJF7YqYCS6uEb4hU81U1fbYXyWR6A2xPzHsXxaJtgoREfg.BBa61cDshboC85jpJ3_VaUqDpvdhR-ep0SWyOzbyV6M&dib_tag=se&keywords=Xbox+Series+S&qid=1741972561&sr=8-3&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 9437: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741972567107	Marionette	INFO	Stopped listening on port 64929
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/21L2L4uKEUL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,41hfXdtHKjL.js,11QfrzttlqL.js,91qahXPBdEL.js,01ELLYeIOkL.js_.js?AUIClients/Brila, line 125: Script terminated by timeout at:
+ti/l.onprogress@https://images-na.ssl-images-amazon.com/images/I/21L2L4uKEUL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,41hfXdtHKjL.js,11QfrzttlqL.js,91qahXPBdEL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:125:1937
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UpdateService.sys.mjs, line 5467: 
+1741972568365	addons.xpi	ERROR	System addon update list error [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no]
+console.error: (new Error("Polling for changes failed: .", "resource://services-settings/remote-settings.sys.mjs", 430))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))

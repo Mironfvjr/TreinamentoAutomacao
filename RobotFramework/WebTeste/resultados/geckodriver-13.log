@@ -1,0 +1,46 @@
+1741973919098	geckodriver	INFO	Listening on 127.0.0.1:52988
+1741973922516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIRON~1.JUN\\AppData\\Local\\Temp\\rust_mozprofilerx621m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741973924163	Marionette	INFO	Marionette enabled
+1741973924673	Marionette	INFO	Listening on port 53008
+WebDriver BiDi listening on ws://127.0.0.1:52989
+Read port: 53008
+1741973924988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52989/devtools/browser/6b751b38-ec01-4940-ad63-4914b398328e
+JavaScript warning: https://www.amazon.com.br/, line 3492: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://m.media-amazon.com/images/I/91x6Aw8H++L.js, line 11: Script terminated by timeout at:
+ie@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:11:9323
+formatNumber@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:11:12959
+i@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:27:258614
+Le@https://m.media-amazon.com/images/I/714+3hZjzaL.js:2580:11
+Pj@https://m.media-amazon.com/images/I/714+3hZjzaL.js:6422:15
+di@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4596:19
+Nj@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4590:30
+sc@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4575:11
+gf@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4332:35
+$g/<@https://m.media-amazon.com/images/I/714+3hZjzaL.js:1875:22
+unstable_runWithPriority@https://m.media-amazon.com/images/I/41qDlz8InOL.js:437:20
+Za@https://m.media-amazon.com/images/I/714+3hZjzaL.js:1852:14
+$g@https://m.media-amazon.com/images/I/714+3hZjzaL.js:1872:13
+ja@https://m.media-amazon.com/images/I/714+3hZjzaL.js:1864:7
+Tj@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4968:7
+unstable_runWithPriority@https://m.media-amazon.com/images/I/41qDlz8InOL.js:437:20
+Za@https://m.media-amazon.com/images/I/714+3hZjzaL.js:1852:14
+Ra@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4906:16
+Rj/<@https://m.media-amazon.com/images/I/714+3hZjzaL.js:4896:13
+R@https://m.media-amazon.com/images/I/41qDlz8InOL.js:221:24
+ua.port1.onmessage@https://m.media-amazon.com/images/I/41qDlz8InOL.js:381:14
+
+JavaScript warning: https://www.amazon.com.br/, line 3488: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/71EOqyQDjOL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 5691: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/, line 3328: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/71EOqyQDjOL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741973948930	Marionette	INFO	Stopped listening on port 53008
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/912LdBW7MOL.js?AUIClients/VideoJsCardsBuzz#language-pt, line 106: Script terminated by timeout at:
+video_min</</e.listenForUserActivity_/<@https://images-na.ssl-images-amazon.com/images/I/912LdBW7MOL.js?AUIClients/VideoJsCardsBuzz#language-pt:106:163118
+
+Dynamically enable window occlusion 1

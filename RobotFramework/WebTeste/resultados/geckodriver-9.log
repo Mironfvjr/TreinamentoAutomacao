@@ -1,0 +1,61 @@
+1741973329389	geckodriver	INFO	Listening on 127.0.0.1:51545
+1741973332481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51546" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIRON~1.JUN\\AppData\\Local\\Temp\\rust_mozprofileRGEqoK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741973333435	Marionette	INFO	Marionette enabled
+1741973333849	Marionette	INFO	Listening on port 51556
+WebDriver BiDi listening on ws://127.0.0.1:51546
+Read port: 51556
+1741973334423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51546/devtools/browser/0ed72477-c966-47ec-904b-e9dc53e74538
+JavaScript warning: https://www.amazon.com.br/, line 3503: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://m.media-amazon.com/images/I/91x6Aw8H++L.js, line 28: Script terminated by timeout at:
+AdaptiveRenderer<@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:28:109417
+n@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:1:104
+AdaptiveRenderer<@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:28:109387
+n@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:1:104
+AdaptiveRenderer<@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:1:905
+@https://m.media-amazon.com/images/I/91x6Aw8H++L.js:1:916
+
+JavaScript error: https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/sf-1.50.d2822c41.js, line 1: InvalidCharacterError: String contains an invalid character
+JavaScript error: data:text/javascript;charset=UTF-8,%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20ReactDOM.hydrate(AdaptiveRenderer.default(%7B%22creativeInformation%22%3A%7B%22components%22%3A%5B%22Image%22%2C%22BuyBox%22%5D%2C%22variation%22%3A%22add-to-cart%22%2C%22productImg%22%3A%7B%22url%22%3A%22https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71cC8JT2HnL.jpg%22%7D%2C%22customImages%22%3A%7B%22square%22%3Anull%2C%22wide%22%3Anull%2C%22tall%22%3Anull%7D%2C%22staticCustomImages%22%3A%7B%7D%2C%22productDescription%22%3A%22Pack%20de%204%20Latas%20Red%20Bull%20Energ%C3%A9tico%2C%20Sem%20A%C3%A7%C3%BAcar%2C%20355ml%22%2C%22priceInformation%22%3A%7B%22price%22%3A51.96%2C%22fullPrice%22%3Anull%2C%22pricePerUnit%22%3A%22%22%7D%2C%22ratings%22%3A%7B%22stars%22%3A4.8%2C%22amount%22%3A3305%7D%2C%22clickThroughInfo%22%3A%7B%22adLink%22%3A%22https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB07XWWQR7L%3Faref%3Dbdc7pHBEZg%26aaxitk%3D6b2e03aedcb489dc3eabe5c391e78cf3%26language%3Dpt_BR%26pd_rd_plhdr%3Dt%26smid%3DA1ZZFT5FULY4LN%26ref%3Ddacx_dp_583027561057102061_592351172566720335%22%2C%22buttonLink%22%3A%22https%3A%2F%2Fwww.amazon.com.br%2Fadvertising%2Fatc%3Faref%3Dbdc7pHBEZg%26aaxitk%3D6b2e03aedcb489dc3eabe5c391e78cf3%26language%3Dpt_BR%26ie%3DUTF8%26token%3DE1B13C7794406E013CDD0B2A4E5F7949B4E5CE48%26time%3D1741972502442%26merchantId%3DA1ZZFT5FULY4LN%26asin%3DB07XWWQR7L%26program%3Ddads%26adPrice%3D51.96%26offerListingId%3DiuNdqq3gFeqzb%25252Bj7JyjGzxXSfvh6LW8OsEZUbnu7sQzOA4Maw2%25252FAEVLkek8v43TMWwUxhvR7x%25252Fuwmo4kSk9f%25252FtU3Sc3eXmZcXQg6qbZQKFiJAU8rY56Bdro2bK15p8t%25252FZQDBdw0ScqoEd65tTA7%25252Bc%25252ForhuBuhCFC%22%2C%22reviewLink%22%3A%22https%3A%2F%2Fwww.amazon.com.br%2Fproduct-reviews%2FB07XWWQR7L%3Faref%3Dbdc7pHBEZg%26aaxitk%3D6b2e03aedcb489dc3eabe5c391e78cf3%26language%3Dpt_BR%22%2C%22impressionUrls%22%3A%5B%5D%2C%22clickUrls%22%3A%5B%22https%3A%2F%2Faax-us-iad.amazon.com%2Fx%2Fc%2FRF3NZrsO15x8Hm-YCj9r6zUAAAGVlbO4wwEAAAIfBABvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICBbnLKS%2F%22%5D%2C%22originUrlDomain%22%3A%22www.amazon%22%2C%22isExternalLink%22%3Afalse%2C%22isOffsite%22%3Afalse%7D%2C%22thirdPartyInfo%22%3A%7B%7D%2C%22dealBadge%22%3A%7B%7D%2C%22isPrimeEligible%22%3Afalse%2C%22eeBadge%22%3Afalse%2C%22promotion%22%3A%7B%22value%22%3A0%2C%22class%22%3A%22%22%2C%22type%22%3A%22%22%7D%2C%22border%22%3Atrue%2C%22releaseDate%22%3A%22%22%2C%22climatePledgeFriendly%22%3Afalse%2C%22vehiclePriceInfo%22%3Anull%7D%2C%22renderingContext%22%3A%7B%22isMirrorCSlot%22%3Afalse%2C%22deviceType%22%3A%22desktop%22%2C%22slotName%22%3A%22right-2%22%2C%22locale%22%3A%22BR%22%2C%22language%22%3A%22pt%22%2C%22slotSize%22%3A%7B%22width%22%3A300%2C%22height%22%3A250%7D%7D%7D%2C%20%7Bweblabs%3A%20%7B%22allLatencyFlags%22%3Atrue%2C%22removePerformanceEventManager%22%3Atrue%2C%22removePolyfills%22%3Atrue%2C%22removeFontFamily%22%3Atrue%2C%22lowerImgQuality%22%3Atrue%2C%22homePageRefresh%22%3Afalse%2C%22useExternalCss%22%3Afalse%7D%2C%20layoutId%3A%20%22default%22%0A%20%20%20%20%7D)%2C%20document.getElementById('ad'))%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20, line 2: TypeError: AdaptiveRenderer is undefined
+JavaScript warning: https://www.amazon.com.br/, line 3480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/71EOqyQDjOL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 5770: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/, line 3484: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/71EOqyQDjOL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 6911: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHLuP5pLqxbp4VHI2OdXX9qmxRNrrtdZe6hHadck4IYj36QOQmM7D3mCIFWjl_dVCkh2nn9lRce7-3mZElYePwVvFyDjD7KMY0LWQS0nGbZQaEzmV6exAqvouyAL-YAxAs9SVjLWitDXZpBVtwnvN6OYWLKuQXBZK3DTR7BOwH6VR0fZ6qFwug-MYr0zJGUQJF7YqYCS6uEb4hU81U1fbYX7ZoC_xB3Pj_PT51e00ty1s.PZceXTuU8_5rStnuZNx6HuhhMAnZH23idRMbvjvNM80&dib_tag=se&keywords=Xbox+Series+S&qid=1741973357&sr=8-1&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 9273: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741973363219	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: ({})
+JavaScript warning: https://www.amazon.com.br/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3208: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741973364977	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.amazon.com.br/cart?ref_=sw_gtc, line 5612: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741973365691	Marionette	INFO	Stopped listening on port 51556
+JavaScript warning: https://www.amazon.com.br/cart?ref_=sw_gtc, line 341: Script terminated by timeout at:
+w@https://www.amazon.com.br/cart?ref_=sw_gtc:341:7084
+T/this.log@https://www.amazon.com.br/cart?ref_=sw_gtc:341:7324
+I@https://www.amazon.com.br/cart?ref_=sw_gtc:341:1020
+@https://www.amazon.com.br/cart?ref_=sw_gtc:341:1813
+i/<@https://www.amazon.com.br/cart?ref_=sw_gtc:322:136
+E/this.mark/<@https://www.amazon.com.br/cart?ref_=sw_gtc:5604:1589
+D/<@https://www.amazon.com.br/cart?ref_=sw_gtc:341:686
+b@https://www.amazon.com.br/cart?ref_=sw_gtc:341:456
+E/this.mark@https://www.amazon.com.br/cart?ref_=sw_gtc:5604:1570
+I@https://www.amazon.com.br/cart?ref_=sw_gtc:5604:1914
+I@https://www.amazon.com.br/cart?ref_=sw_gtc:341:1020
+@https://www.amazon.com.br/cart?ref_=sw_gtc:341:1813
+i/<@https://www.amazon.com.br/cart?ref_=sw_gtc:322:136
+we@https://www.amazon.com.br/cart?ref_=sw_gtc:5604:5503
+ye/</</<@https://www.amazon.com.br/cart?ref_=sw_gtc:5604:4460
+ye/</<@https://www.amazon.com.br/cart?ref_=sw_gtc:5604:4568
+ye/<@https://www.amazon.com.br/cart?ref_=sw_gtc:5604:4357
+ye@https://www.amazon.com.br/cart?ref_=sw_gtc:5604:4332
+se@https://www.amazon.com.br/cart?ref_=sw_gtc:5604:2841
+D/<@https://www.amazon.com.br/cart?ref_=sw_gtc:341:686
+
+Dynamically enable window occlusion 1

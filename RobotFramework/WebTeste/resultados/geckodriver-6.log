@@ -1,0 +1,36 @@
+1741973059439	geckodriver	INFO	Listening on 127.0.0.1:50778
+1741973062521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIRON~1.JUN\\AppData\\Local\\Temp\\rust_mozprofilegJdM9r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741973063717	Marionette	INFO	Marionette enabled
+1741973064260	Marionette	INFO	Listening on port 50789
+WebDriver BiDi listening on ws://127.0.0.1:50779
+Read port: 50789
+1741973064580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50779/devtools/browser/c65f8480-e5f8-430a-86d2-5d290fd751d5
+JavaScript warning: https://www.amazon.com.br/, line 3489: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com.br/, line 3481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/71EOqyQDjOL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 5770: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/, line 3477: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/71EOqyQDjOL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 6983: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741973089040	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHLuP5pLqxbp4VHI2OdXX9qmxRNrrtdZe6hHadck4IYj36QOQmM7D3mCIFWjl_dVCkh2nn9lRce7-3mZElYePwVkb2B5xA3vF-y7VOV3XLwEulAzO6kMID3TNgphSJsUxK9SVjLWitDXZpBVtwnvN6OYWLKuQXBZK3DTR7BOwH6VR0fZ6qFwug-MYr0zJGUQJF7YqYCS6uEb4hU81U1fbYX29NSF-ytwWLJ3o_1fjLRb0.CxXgAQAPB2ougJVQQ8oZCXOZECzxdGwN61wHYmI8krQ&dib_tag=se&keywords=Xbox+Series+S&qid=1741973087&sr=8-1&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 9358: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741973092530	Marionette	INFO	Stopped listening on port 50789
+JavaScript warning: https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHLuP5pLqxbp4VHI2OdXX9qmxRNrrtdZe6hHadck4IYj36QOQmM7D3mCIFWjl_dVCkh2nn9lRce7-3mZElYePwVkb2B5xA3vF-y7VOV3XLwEulAzO6kMID3TNgphSJsUxK9SVjLWitDXZpBVtwnvN6OYWLKuQXBZK3DTR7BOwH6VR0fZ6qFwug-MYr0zJGUQJF7YqYCS6uEb4hU81U1fbYX29NSF-ytwWLJ3o_1fjLRb0.CxXgAQAPB2ougJVQQ8oZCXOZECzxdGwN61wHYmI8krQ&dib_tag=se&keywords=Xbox+Series+S&qid=1741973087&sr=8-1&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 9350: Script terminated by timeout at:
+Ee@https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHLuP5pLqxbp4VHI2OdXX9qmxRNrrtdZe6hHadck4IYj36QOQmM7D3mCIFWjl_dVCkh2nn9lRce7-3mZElYePwVkb2B5xA3vF-y7VOV3XLwEulAzO6kMID3TNgphSJsUxK9SVjLWitDXZpBVtwnvN6OYWLKuQXBZK3DTR7BOwH6VR0fZ6qFwug-MYr0zJGUQJF7YqYCS6uEb4hU81U1fbYX29NSF-ytwWLJ3o_1fjLRb0.CxXgAQAPB2ougJVQQ8oZCXOZECzxdGwN61wHYmI8krQ&dib_tag=se&keywords=Xbox+Series+S&qid=1741973087&sr=8-1&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e:9350:4709
+pe@https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHLuP5pLqxbp4VHI2OdXX9qmxRNrrtdZe6hHadck4IYj36QOQmM7D3mCIFWjl_dVCkh2nn9lRce7-3mZElYePwVkb2B5xA3vF-y7VOV3XLwEulAzO6kMID3TNgphSJsUxK9SVjLWitDXZpBVtwnvN6OYWLKuQXBZK3DTR7BOwH6VR0fZ6qFwug-MYr0zJGUQJF7YqYCS6uEb4hU81U1fbYX29NSF-ytwWLJ3o_1fjLRb0.CxXgAQAPB2ougJVQQ8oZCXOZECzxdGwN61wHYmI8krQ&dib_tag=se&keywords=Xbox+Series+S&qid=1741973087&sr=8-1&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e:9350:3738
+se@https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHLuP5pLqxbp4VHI2OdXX9qmxRNrrtdZe6hHadck4IYj36QOQmM7D3mCIFWjl_dVCkh2nn9lRce7-3mZElYePwVkb2B5xA3vF-y7VOV3XLwEulAzO6kMID3TNgphSJsUxK9SVjLWitDXZpBVtwnvN6OYWLKuQXBZK3DTR7BOwH6VR0fZ6qFwug-MYr0zJGUQJF7YqYCS6uEb4hU81U1fbYX29NSF-ytwWLJ3o_1fjLRb0.CxXgAQAPB2ougJVQQ8oZCXOZECzxdGwN61wHYmI8krQ&dib_tag=se&keywords=Xbox+Series+S&qid=1741973087&sr=8-1&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e:9350:2841
+D/<@https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHLuP5pLqxbp4VHI2OdXX9qmxRNrrtdZe6hHadck4IYj36QOQmM7D3mCIFWjl_dVCkh2nn9lRce7-3mZElYePwVkb2B5xA3vF-y7VOV3XLwEulAzO6kMID3TNgphSJsUxK9SVjLWitDXZpBVtwnvN6OYWLKuQXBZK3DTR7BOwH6VR0fZ6qFwug-MYr0zJGUQJF7YqYCS6uEb4hU81U1fbYX29NSF-ytwWLJ3o_1fjLRb0.CxXgAQAPB2ougJVQQ8oZCXOZECzxdGwN61wHYmI8krQ&dib_tag=se&keywords=Xbox+Series+S&qid=1741973087&sr=8-1&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e:664:686
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UpdateService.sys.mjs, line 5467: 
+console.error: (new Error("Polling for changes failed: .", "resource://services-settings/remote-settings.sys.mjs", 430))
+1741973093938	addons.xpi	ERROR	System addon update list error [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown

@@ -1,0 +1,27 @@
+1741974422714	geckodriver	INFO	Listening on 127.0.0.1:53730
+1741974425809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIRON~1.JUN\\AppData\\Local\\Temp\\rust_mozprofileMcERNx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741974426870	Marionette	INFO	Marionette enabled
+1741974427445	Marionette	INFO	Listening on port 53744
+WebDriver BiDi listening on ws://127.0.0.1:53731
+Read port: 53744
+1741974427774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53731/devtools/browser/525e9fed-eb76-4d0c-92d9-52929b51cf57
+JavaScript warning: https://www.amazon.com.br/, line 3505: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com.br/, line 3488: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 5770: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/, line 3337: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 7095: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHLuP5pLqxbp4VHI2OdXX9qmxRNrrtdZe6hHadck4IYj36QOQmM7D3mCIFWjl_dVCke0loPsR_j4lWkIqccY-zYYlIEN4APh5keVRCukAbLft0VX1nXlrJyYiWU-fu2hgt9SVjLWitDXZpBVtwnvN6OYWLKuQXBZK3DTR7BOwH6VR0fZ6qFwug-MYr0zJGUQJF7YqYCS6uEb4hU81U1fbYXyWR6A2xPzHsXxaJtgoREfg.66AQMtN8pIB6sfA3-HMIZKbU0yqkYttZkukKDdc_8dw&dib_tag=se&keywords=Xbox+Series+S&qid=1741974441&sr=8-1&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 9408: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741974446941	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: ({})
+JavaScript warning: https://www.amazon.com.br/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3208: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741974468436	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.amazon.com.br/cart?ref_=sw_gtc, line 5612: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741974470078	Marionette	INFO	Stopped listening on port 53744
+Dynamically enable window occlusion 1

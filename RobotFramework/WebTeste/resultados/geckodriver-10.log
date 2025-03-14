@@ -1,0 +1,40 @@
+1741973471719	geckodriver	INFO	Listening on 127.0.0.1:51933
+1741973474787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIRON~1.JUN\\AppData\\Local\\Temp\\rust_mozprofileKINoMZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741973475659	Marionette	INFO	Marionette enabled
+1741973476172	Marionette	INFO	Listening on port 51946
+WebDriver BiDi listening on ws://127.0.0.1:51934
+Read port: 51946
+1741973476358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51934/devtools/browser/f7e67921-da61-4fc4-9711-09b813e0e356
+JavaScript warning: https://www.amazon.com.br/, line 3464: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 912: TypeError: this.contentWindow is null
+[Child 9388, MediaDecoderStateMachine #1] WARNING: Decoder=17fb3d9b000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 9388, MediaDecoderStateMachine #1] WARNING: Decoder=17fb3d9b000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+JavaScript warning: https://www.amazon.com.br/, line 3442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/71EOqyQDjOL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 5691: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/, line 3466: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/71EOqyQDjOL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 6911: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1741973503033	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHLuP5pLqxbp4VHI2OdXX9qmxRNrrtdZe6hHadck4IYj36QOQmM7D3mCIFWjl_dVCkh2nn9lRce7-3mZElYePwVvFyDjD7KMY0LWQS0nGbZQaEzmV6exAqvouyAL-YAxAs9SVjLWitDXZpBVtwnvN6OYWLKuQXBZK3DTR7BOwH6VR0fZ6qFwug-MYr0zJGUQJF7YqYCS6uEb4hU81U1fbYX7ZoC_xB3Pj_PT51e00ty1s.c8iQvo4vSQKyhAFyZoYQBEa8SAMutsCW8IW8RFFOcOc&dib_tag=se&keywords=Xbox+Series+S&qid=1741973500&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147, line 9344: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3237: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/cart?ref_=sw_gtc, line 5620: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741973512950	Marionette	INFO	Stopped listening on port 51946
+JavaScript warning: https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery, line 127: Script terminated by timeout at:
+m@https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery:127:78
+find@https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery:132:364
+init@https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery:36:451
+b@https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery:34:396
+@https://images-na.ssl-images-amazon.com/images/I/51na2k2njbL._RC|71rYEdus-LL.js,019AaNzy9HL.js,01MHmiwP7tL.js,71m4s8J6XyL.js,01cZ21lATAL.js,01bAfFgS7JL.js,01A2AtmCtlL.js,41jBieyCvYL.js,01wXnKULArL.js,01+pnQJuQ0L.js,21PMP-WgxTL.js,41lXbNNGwGL.js,51HrkAbbpLL.js,31XO9BO1OrL.js,11lw6J7z8iL.js,31+UifI0MIL.js,01VYGE8lGhL.js,01tDwkxEoCL.js_.js?AUIClients/NavDesktopUberAsset#desktop.language-pt.br.878681-T1.1079958-T1.1089549-T1.1168233-T1.1104203-T1.1121224-T1:297:328
+b.observe/d<@https://images-na.ssl-images-amazon.com/images/I/51na2k2njbL._RC|71rYEdus-LL.js,019AaNzy9HL.js,01MHmiwP7tL.js,71m4s8J6XyL.js,01cZ21lATAL.js,01bAfFgS7JL.js,01A2AtmCtlL.js,41jBieyCvYL.js,01wXnKULArL.js,01+pnQJuQ0L.js,21PMP-WgxTL.js,41lXbNNGwGL.js,51HrkAbbpLL.js,31XO9BO1OrL.js,11lw6J7z8iL.js,31+UifI0MIL.js,01VYGE8lGhL.js,01tDwkxEoCL.js_.js?AUIClients/NavDesktopUberAsset#desktop.language-pt.br.878681-T1.1079958-T1.1089549-T1.1168233-T1.1104203-T1.1121224-T1:25:43
+_run/<@https://images-na.ssl-images-amazon.com/images/I/51na2k2njbL._RC|71rYEdus-LL.js,019AaNzy9HL.js,01MHmiwP7tL.js,71m4s8J6XyL.js,01cZ21lATAL.js,01bAfFgS7JL.js,01A2AtmCtlL.js,41jBieyCvYL.js,01wXnKULArL.js,01+pnQJuQ0L.js,21PMP-WgxTL.js,41lXbNNGwGL.js,51HrkAbbpLL.js,31XO9BO1OrL.js,11lw6J7z8iL.js,31+UifI0MIL.js,01VYGE8lGhL.js,01tDwkxEoCL.js_.js?AUIClients/NavDesktopUberAsset#desktop.language-pt.br.878681-T1.1079958-T1.1089549-T1.1168233-T1.1104203-T1.1121224-T1:9:235
+c@https://images-na.ssl-images-amazon.com/images/I/51na2k2njbL._RC|71rYEdus-LL.js,019AaNzy9HL.js,01MHmiwP7tL.js,71m4s8J6XyL.js,01cZ21lATAL.js,01bAfFgS7JL.js,01A2AtmCtlL.js,41jBieyCvYL.js,01wXnKULArL.js,01+pnQJuQ0L.js,21PMP-WgxTL.js,41lXbNNGwGL.js,51HrkAbbpLL.js,31XO9BO1OrL.js,11lw6J7z8iL.js,31+UifI0MIL.js,01VYGE8lGhL.js,01tDwkxEoCL.js_.js?AUIClients/NavDesktopUberAsset#desktop.language-pt.br.878681-T1.1079958-T1.1089549-T1.1168233-T1.1104203-T1.1121224-T1:6:487
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
